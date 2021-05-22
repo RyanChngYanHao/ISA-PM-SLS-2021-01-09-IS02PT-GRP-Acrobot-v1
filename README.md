@@ -8,7 +8,7 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY
 
-<img src="Miscellaneous/UnderConstruction.txt"
+<img src="Miscellaneous/ExecutiveSummary.png"
      style="float: left; margin-right: 0px;" />
 
 ---
@@ -45,7 +45,7 @@
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/ISA-PM-SLS-2021-01-09-IS02PT-GRP-Acrobot-v1/blob/master/ProjectReport/UnderConstruction.txt) `in Github Folder: ProjectReport`
+`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/ISA-PM-SLS-2021-01-09-IS02PT-GRP-Acrobot-v1/blob/master/ProjectReport/ProjectReport.pdf) `in Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
