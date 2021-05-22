@@ -24,7 +24,8 @@
 
 ## SECTION 4 : ANIMATION
 
-### Last episode of SARSA Agent. (Trained ~ 4hrs for 10,000 episodes, 5,000 swings per episode)
+### Last episode of SARSA Agent. 
+### Trained ~ 4hrs, 10,000 episodes, 5,000 swings per episode
 <img src="Animation/AcrobotSarsaAgent_last_episode.gif"
      style="float: left; margin-right: 0px;" />
 
