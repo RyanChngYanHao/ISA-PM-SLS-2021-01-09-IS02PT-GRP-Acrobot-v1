@@ -24,12 +24,8 @@
 
 ## SECTION 4 : ANIMATION
 
-- View [Q-Learning]()
-- View [Genetic Algorithm]()
-- View [Torque1 Policy]()
-- View [Theta1 Policy]()
-- View [Random]()
-<img src="Animation/AcrobotBaseAgent_last_episode.gif"
+### Last episode of SARSA Agent. (Trained ~ 4hrs for 10,000 episodes, 5,000 swings per episode)
+<img src="Animation/AcrobotSarsaAgent_last_episode.gif"
      style="float: left; margin-right: 0px;" />
 
 ---
